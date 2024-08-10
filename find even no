@@ -1,0 +1,11 @@
+a=[45,60,56,70]
+
+for n in a:
+    if n%2==0:
+        print("even")
+        break
+    
+    
+print("the first even no:",n)
+
+
